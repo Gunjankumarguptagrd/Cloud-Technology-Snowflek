@@ -1,3 +1,1 @@
-# Cloud Technology & Snowflek
-## AWS , AZUR & GCP
-
+# Live Real World chalange Problems.
